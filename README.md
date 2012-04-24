@@ -1,4 +1,3 @@
-
 WELCOME
 =======
 Congratulations you have just created a new Mule Cloud Connector!
@@ -34,5 +33,3 @@ Also, MuleSoft, the company behind Mule, offers 24x7 support options:
 http://www.mulesoft.com/enterprise-subscriptions-and-support
 
 Enjoy your Mule ride!
-
-The Mule Team
