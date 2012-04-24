@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(couchdb:get) -->
+    <couchdb-connector:get key="#[map-payload:key]" />
+<!-- END_INCLUDE(couchdb:get) -->
