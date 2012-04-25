@@ -122,6 +122,7 @@ public class CouchDBConnector {
      * <p/>
      * {@sample.xml ../../../doc/couchdb-connector.xml.sample couchdb:get}
      *
+     * @param key the key to retrieve
      * @return Some string
      */
     @Processor
